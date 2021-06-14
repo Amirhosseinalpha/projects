@@ -1,0 +1,23 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'montserrat' , sans-serif;
+}
+body{
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: #1b1919;
+}
+span{
+	width: 400px;
+	height: 100px;
+	line-height: 100px;
+	border-radius: 50px;
+	color: #00fff2;
+	text-align: center;
+	font-size: 45px;
+	box-shadow: inset 2px 3px 4px rgba(255, 255, 255, .1) ,2px 3px 4px rgba(0, 0, 0, .4) ;
+}
